@@ -6,6 +6,6 @@ This is a repository created by Thomas Pizzirani
 
 Run this command to execute the application:
 
-'python filename.py'
+`python filename.py`
 
 '''
